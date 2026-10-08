@@ -1,5 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33211024/README.1.md)
-
 # Numerical Linear Systems — MATLAB
 
 **Numerical methods for solving a resistor-network linear system**, implemented in MATLAB as part of the *Fondamenti di Calcolo Numerico* (Foundations of Numerical Computing) course at Politecnico di Milano (2026).
