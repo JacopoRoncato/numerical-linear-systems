@@ -1,0 +1,19 @@
+# MATLAB autosaves / editor state
+*.asv
+*.autosave
+*.m~
+*.mlx.autosave
+
+# MATLAB-generated caches and outputs
+slprj/
+codegen/
+*.mex*
+*.p
+*.fig
+*.mat
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
